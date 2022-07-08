@@ -1,0 +1,9 @@
+
+# custom
+.history/
+.vscode/
+
+
+#  module
+node_modules/
+dist/
